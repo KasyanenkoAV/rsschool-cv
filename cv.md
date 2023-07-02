@@ -1,22 +1,20 @@
 # **Andrey Kasyanenko**
 
-Contacts
-Location: Taganrog, Russia
-Phone: +7-928-103-51-51
-E-mail: kav.83@inbox.ru
-GitHub: https://github.com/KasyanenkoAV
+## **Contact information:**\
 
-About Me
+> **Location:** _Taganrog, Russia_ >**Phone:** _+7 (928) 103 51 51_ >**E-mail:** kav.83@inbox.ru_ >**GitHub:** <u>_[Kasyanenko A.V.](https://github.com/KasyanenkoAV)_</u>
 
-Skills
+## **About Me**\
 
-Code Example
+## **Skills**
 
-Experience
+## **Code Example**
 
-Education
+## **Experience**
 
-Languages
+## **Education**
 
-Russian - native speaker.
-English - B1
+## **Languages**
+
+**Russian** - _native speaker_\
+**English** - _B1_
