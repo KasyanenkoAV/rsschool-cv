@@ -1,11 +1,11 @@
 # **Andrey Kasyanenko**
 
-| **Contact information:** | ![Foto](https://img.hhcdn.ru/photo/726812874.jpeg?t=1688387246&h=S-eYU7IE0tbPkKcaKRQ1Bw =130x130) |
-| :----------------------- | :------------------------------------------------------------------------------------------------ |
-| **Location:**            | _Taganrog, Russia_                                                                                |
-| **Phone:**               | _+7 (928) 103 51 51_                                                                              |
-| **E-mail:**              | _kav.83@inbox.ru_                                                                                 |
-| **GitHub:**              | [_Kasyanenko A.V._](https://github.com/KasyanenkoAV)                                              |
+| **Contact information:** | ![Foto](726812874.jpeg =130x130)                     |
+| :----------------------- | :--------------------------------------------------- |
+| **Location:**            | _Taganrog, Russia_                                   |
+| **Phone:**               | _+7 (928) 103 51 51_                                 |
+| **E-mail:**              | _kav.83@inbox.ru_                                    |
+| **GitHub:**              | [_Kasyanenko A.V._](https://github.com/KasyanenkoAV) |
 
 ### **About Me**
 
