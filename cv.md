@@ -3,8 +3,7 @@
 ### **Contact information:**
 
 **Location:** [_Taganrog, Russia_](https://www.google.ru/maps/@47.2339817,38.8872123,13z?entry=ttu)  
- **Phone:** _+7 (928) 103 51 51_  
- **E-mail:** _kav.83@inbox.ru_  
+ 
  **GitHub:** [_Kasyanenko A.V._](https://github.com/KasyanenkoAV)
 
 ---
